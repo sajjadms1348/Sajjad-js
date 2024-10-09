@@ -7,7 +7,7 @@ accountCity = "Bangalore"
 accountEmail = "ms@google.com"
 accountPassword = "abc"
 accountCity = "jaipur"
-accountState ="";
+let accountState;
 
 console.log(accountId);
 
